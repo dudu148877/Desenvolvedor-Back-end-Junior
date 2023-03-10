@@ -55,4 +55,4 @@ routes: contém as rotas definidas para cada endpoint do aplicativo.
 
 
 
-O projeto https://github.com/dudu148877/Desenvolvedor-Back-end-Junior é um aplicativo de formulário backend simples, construído com Node.js e MongoDB. Ele fornece uma estrutura básica para receber e armazenar dados de formulários em um banco de dados MongoDB. O projeto é uma boa opção para quem está aprendendo a construir aplicativos Node.js com MongoDB.
+O projeto https://github.com/dudu148877/Desenvolvedor-Back-end-Junior é um aplicativo de formulário backend simples, construído com Node.js e MongoDB. Ele fornece uma estrutura básica para receber e armazenar dados de formulários em um banco de dados MongoDB. 
