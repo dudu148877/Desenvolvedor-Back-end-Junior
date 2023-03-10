@@ -1,6 +1,14 @@
                                                 <b>Olá, seja bem vindo(a)</b> ao meu projeto  <b>PRECATO</b>
 O projeto https://github.com/dudu148877/Desenvolvedor-Back-end-Junior é um aplicativo de formulário backend simples, construído com Node.js e MongoDB. O objetivo do aplicativo é permitir que os usuários enviem formulários com seus dados pessoais, que são armazenados no banco de dados MongoDB.
 
+Foi usado:
+Express: uma biblioteca Node.js para criar aplicativos web e APIs.
+Mongoose: uma biblioteca Node.js para interagir com o banco de dados MongoDB.
+dotenv: uma biblioteca Node.js para carregar variáveis de ambiente de um arquivo .env.
+body-parser: uma biblioteca Node.js para analisar o corpo das solicitações HTTP.
+cors: uma biblioteca Node.js para habilitar o acesso CORS a partir de diferentes origens.
+O projeto também utiliza o banco de dados MongoDB, um banco de dados NoSQL orientado a documentos que é altamente escalável e flexível.
+
 Requisitos
 Antes de começar a utilizar o aplicativo, você precisará ter as seguintes ferramentas instaladas em seu sistema:
 
